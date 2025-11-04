@@ -1,0 +1,34 @@
+{
+  "name": "Imad Benritounia",
+  "title": "Software Engineer - MIAGE",
+  "tagline": "Building Innovative Digital Solutions with Cutting-Edge Technologies",
+  "description": "Currently in my 5th year of MIAGE engineering at EMSI, I'm passionate about web development and data science. I specialize in designing, developing, and analyzing data-driven applications. Curious, rigorous, and motivated, I'm seeking a 6-month internship from February 1st to July 30th to contribute to high-value projects.",
+  "image": "/images/hero-avatar.jpg",
+  "resumeUrl": "/resume.pdf",
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Benritouniaimad",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/imad-benritounia",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Portfolio",
+      "url": "https://imad.vercel.app",
+      "icon": "globe"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:benritouniaimad07@gmail.com",
+      "icon": "email"
+    }
+  ],
+  "cta": {
+    "primary": "View My Work",
+    "secondary": "Get In Touch"
+  }
+}

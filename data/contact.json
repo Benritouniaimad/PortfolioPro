@@ -1,0 +1,37 @@
+{
+  "heading": "Let's Work Together",
+  "subheading": "Seeking a 6-month internship from February 1st to July 30th. Let's connect!",
+  "email": "benritouniaimad07@gmail.com",
+  "phone": "+212 622-854828",
+  "location": "Morocco",
+  "availability": "Available for 6-month internship (Feb 1 - Jul 30, 2026)",
+  "socialLinks": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/Benritouniaimad",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/imad-benritounia",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Portfolio",
+      "url": "https://imad.vercel.app",
+      "icon": "globe"
+    },
+    {
+      "platform": "Email",
+      "url": "mailto:benritouniaimad07@gmail.com",
+      "icon": "email"
+    }
+  ],
+  "formFields": {
+    "namePlaceholder": "Your Name",
+    "emailPlaceholder": "your.email@example.com",
+    "subjectPlaceholder": "Internship Opportunity / Project",
+    "messagePlaceholder": "Tell me about your opportunity or project...",
+    "submitButton": "Send Message"
+  }
+}

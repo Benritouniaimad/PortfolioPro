@@ -1,0 +1,95 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Speedex - Fleet Management System",
+      "description": "Multi-warehouse management system with real-time vehicle tracking and preventive maintenance scheduling.",
+      "longDescription": "Led the development of a comprehensive fleet management system as Project Manager and Developer. Implemented multi-warehouse stock tracking across multiple sites, role-based access control, and preventive maintenance planning. The application provides real-time vehicle tracking, maintenance scheduling, and cost reduction through an integrated and user-friendly interface.",
+      "image": "/images/projects/speedex.jpg",
+      "tags": ["Node.js", "Next.js", "PostgreSQL", "OAuth 2.0", "Real-time Tracking"],
+      "demoUrl": "#",
+      "githubUrl": "https://github.com/Benritouniaimad",
+      "featured": true,
+      "category": "Web Application",
+      "completionDate": "2024-09"
+    },
+    {
+      "id": 2,
+      "title": "SkyAware - Air Quality Monitoring",
+      "description": "Real-time air quality monitoring platform to help citizens understand and protect their health.",
+      "longDescription": "Designed and developed SkyAware, a platform that helps citizens understand real-time air quality to better protect their health on a daily basis. The application provides comprehensive air quality data, health recommendations, and personalized alerts based on location and air quality indices.",
+      "image": "/images/projects/skyaware.jpg",
+      "tags": ["Web Development", "Real-time Data", "Health Tech", "API Integration"],
+      "demoUrl": "#",
+      "githubUrl": "https://github.com/Benritouniaimad",
+      "featured": true,
+      "category": "Web Application",
+      "completionDate": "2024-05"
+    },
+    {
+      "id": 3,
+      "title": "CERIMME - Document Management System",
+      "description": "Digitalization and automation of archive storage and sharing for optimized management.",
+      "longDescription": "Developed a comprehensive document management system during a 2-month internship. The platform digitalizes, organizes, and automates the storage and sharing of archives to optimize internal information management and traceability. Built with Django framework and modern web technologies for efficient document handling.",
+      "image": "/images/projects/cerimme.jpg",
+      "tags": ["Django", "HTML", "CSS", "jQuery", "MySQL", "Document Management"],
+      "demoUrl": "#",
+      "githubUrl": "https://github.com/Benritouniaimad",
+      "featured": false,
+      "category": "Web Application",
+      "completionDate": "2023-08"
+    },
+    {
+      "id": 4,
+      "title": "EcommerceCite - Online Store Platform",
+      "description": "E-commerce platform for online dairy products store (Laiterie en ligne) built with Django.",
+      "longDescription": "Developed a full-featured e-commerce website for an online dairy store (laiterie). The platform includes product catalog, shopping cart, order management, and user authentication. Built with Django framework and Python, featuring a clean user interface and secure payment processing. Includes virtual environment setup and database migrations for easy deployment.",
+      "image": "/images/projects/ecommerce.jpg",
+      "tags": ["Django", "Python", "E-commerce", "HTML", "CSS", "Database"],
+      "demoUrl": "#",
+      "githubUrl": "https://github.com/Benritouniaimad/EcommerceCIte",
+      "featured": false,
+      "category": "Web Application",
+      "completionDate": "2024-06"
+    },
+    {
+      "id": 5,
+      "title": "Coursera Learning Repository",
+      "description": "Repository for Coursera course projects and learning exercises.",
+      "longDescription": "A collection of projects and exercises completed during Coursera courses. This repository serves as a portfolio of online learning achievements and demonstrates continuous skill development through structured online education. Includes various programming exercises, assignments, and project work from professional development courses.",
+      "image": "/images/projects/coursera.jpg",
+      "tags": ["Learning", "Coursera", "Educational", "Web Development"],
+      "demoUrl": "#",
+      "githubUrl": "https://github.com/Benritouniaimad/coursera-test",
+      "featured": false,
+      "category": "Educational",
+      "completionDate": "2023-03"
+    },
+    {
+      "id": 6,
+      "title": "SRMCS Site Manager",
+      "description": "Modern site management application built with React, TypeScript, and Vite using Lovable platform.",
+      "longDescription": "A comprehensive site management system developed with modern web technologies. Built using Vite, TypeScript, React, shadcn-ui, and Tailwind CSS. Features include site monitoring, content management, and administrative tools. The application provides a clean, responsive interface with real-time updates and smooth user experience. Developed as part of the SRM-CS (Sky Research & Monitoring) project ecosystem.",
+      "image": "/images/projects/srmcs.jpg",
+      "tags": ["TypeScript", "React", "Vite", "Tailwind CSS", "shadcn-ui"],
+      "demoUrl": "https://lovable.dev/projects/0a66cd5e-187e-42b1-b17a-f86f1a54a3a8",
+      "githubUrl": "https://github.com/Benritouniaimad/srmcs-site-manager",
+      "featured": true,
+      "category": "Web Application",
+      "completionDate": "2024-11"
+    },
+    {
+      "id": 7,
+      "title": "EmsiApp - Android Application",
+      "description": "Native Android application developed with Java for EMSI students and staff.",
+      "longDescription": "Android mobile application built with Java for the EMSI (École Marocaine des Sciences de l'Ingénieur) community. The app provides essential features for students and faculty including schedule management, course information, campus resources, and communication tools. Developed using Android Studio with modern Java practices, following Material Design guidelines for a native Android experience.",
+      "image": "/images/projects/emsiapp.jpg",
+      "tags": ["Java", "Android", "Mobile Development", "Android Studio"],
+      "demoUrl": "#",
+      "githubUrl": "https://github.com/Benritouniaimad/EmsiApp",
+      "featured": false,
+      "category": "Mobile Application",
+      "completionDate": "2024-10"
+    }
+  ]
+}

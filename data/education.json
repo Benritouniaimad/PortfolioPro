@@ -1,0 +1,20 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "degree": "Engineering Degree - MIAGE",
+      "institution": "EMSI (École Marocaine des Sciences de l'Ingénieur)",
+      "location": "Morocco",
+      "startDate": "2021",
+      "endDate": "2026",
+      "description": "Comprehensive engineering program in Computer Engineering (MIAGE - Méthodes Informatiques Appliquées à la Gestion). Focused on software development, database management, information systems, and project management. Strong emphasis on machine learning, deep learning, data processing, and AI model design.",
+      "gpa": "Currently in 5th year",
+      "achievements": [
+        "Specialized in software development and data science",
+        "Expertise in designing technology solutions for business needs",
+        "Strong knowledge in machine learning and deep learning",
+        "Experience in AI applications for decision-making and automation"
+      ]
+    }
+  ]
+}

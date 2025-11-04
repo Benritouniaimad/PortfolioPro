@@ -1,0 +1,80 @@
+{
+  "experience": [
+    {
+      "id": 1,
+      "position": "Project Manager & Software Engineer",
+      "company": "Speedex",
+      "location": "Morocco",
+      "type": "Internship",
+      "startDate": "2024-06",
+      "endDate": "2024-09",
+      "current": false,
+      "description": "Led the development of a comprehensive fleet management system with multi-warehouse tracking and preventive maintenance.",
+      "responsibilities": [
+        "Managed project lifecycle from planning to deployment",
+        "Designed and implemented multi-warehouse stock management system",
+        "Developed role-based access control and security features",
+        "Built real-time vehicle tracking functionality",
+        "Created preventive maintenance scheduling system",
+        "Integrated OAuth 2.0 authentication",
+        "Optimized database queries for performance"
+      ],
+      "technologies": ["Node.js", "Next.js", "PostgreSQL", "OAuth 2.0", "Real-time Systems"],
+      "achievements": [
+        "Successfully delivered multi-warehouse management system",
+        "Reduced maintenance costs through preventive scheduling",
+        "Implemented secure role-based access control"
+      ]
+    },
+    {
+      "id": 2,
+      "position": "Designer & Developer",
+      "company": "SRM-CS (Sky Research & Monitoring)",
+      "location": "Morocco",
+      "type": "Academic Project",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "current": false,
+      "description": "Designed and developed SkyAware, a real-time air quality monitoring platform to help citizens protect their health.",
+      "responsibilities": [
+        "Designed full user interface and user experience",
+        "Developed real-time air quality monitoring features",
+        "Integrated air quality APIs and data sources",
+        "Implemented location-based health recommendations",
+        "Created data visualization dashboards",
+        "Built alert system for air quality changes"
+      ],
+      "technologies": ["Web Development", "API Integration", "Data Visualization", "Health Tech"],
+      "achievements": [
+        "Created comprehensive air quality monitoring platform",
+        "Implemented real-time data visualization",
+        "Delivered user-friendly health protection tool"
+      ]
+    },
+    {
+      "id": 3,
+      "position": "Software Developer",
+      "company": "CERIMME",
+      "location": "Morocco",
+      "type": "Internship",
+      "startDate": "2023-06",
+      "endDate": "2023-08",
+      "current": false,
+      "description": "Developed a document management system for digitalization and automation of archive storage and sharing.",
+      "responsibilities": [
+        "Developed full-stack document management application",
+        "Implemented digitalization and organization features",
+        "Automated storage and sharing workflows",
+        "Optimized internal information management",
+        "Enhanced document traceability system",
+        "Built secure access control mechanisms"
+      ],
+      "technologies": ["Django", "HTML", "CSS", "jQuery", "MySQL"],
+      "achievements": [
+        "Successfully digitalized archive management system",
+        "Improved document traceability and organization",
+        "Automated storage and sharing processes"
+      ]
+    }
+  ]
+}

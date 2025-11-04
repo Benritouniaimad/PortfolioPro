@@ -1,0 +1,64 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Spring Framework Specialization",
+      "issuer": "Professional Training",
+      "date": "2021-2025",
+      "credentialId": "SPRING-SPEC",
+      "logo": "/images/spring-logo.png",
+      "verifyUrl": "#",
+      "skills": ["Spring Boot", "Java", "Enterprise Applications", "Microservices"]
+    },
+    {
+      "id": 2,
+      "name": "DevOps, Cloud, and Agile Foundations",
+      "issuer": "Professional Training",
+      "date": "2021-2025",
+      "credentialId": "DEVOPS-CLOUD",
+      "logo": "/images/devops-logo.png",
+      "verifyUrl": "#",
+      "skills": ["DevOps", "Cloud Computing", "Agile", "CI/CD"]
+    },
+    {
+      "id": 3,
+      "name": "Introduction to Java OOP",
+      "issuer": "Programming Course",
+      "date": "2021-2025",
+      "credentialId": "JAVA-OOP",
+      "logo": "/images/java-logo.png",
+      "verifyUrl": "#",
+      "skills": ["Java", "Object-Oriented Programming", "Design Patterns"]
+    },
+    {
+      "id": 4,
+      "name": "Git and GitHub",
+      "issuer": "Version Control Training",
+      "date": "2021-2025",
+      "credentialId": "GIT-GITHUB",
+      "logo": "/images/git-logo.png",
+      "verifyUrl": "#",
+      "skills": ["Git", "GitHub", "Version Control", "Collaboration"]
+    },
+    {
+      "id": 5,
+      "name": "UML & Software Modeling",
+      "issuer": "Software Engineering Course",
+      "date": "2021-2025",
+      "credentialId": "UML-MODEL",
+      "logo": "/images/uml-logo.png",
+      "verifyUrl": "#",
+      "skills": ["UML", "Software Architecture", "System Design", "Modeling"]
+    },
+    {
+      "id": 6,
+      "name": "SQL Tuning",
+      "issuer": "Database Optimization Course",
+      "date": "2021-2025",
+      "credentialId": "SQL-TUNING",
+      "logo": "/images/sql-logo.png",
+      "verifyUrl": "#",
+      "skills": ["SQL", "Query Optimization", "Database Performance", "PostgreSQL"]
+    }
+  ]
+}
