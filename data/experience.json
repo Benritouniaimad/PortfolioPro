@@ -3,27 +3,30 @@
     
     {
       "id": 1,
-      "position": "Designer & Developer",
-      "company": "SRM-CS (Sky Research & Monitoring)",
+      "position": "Full-Stack Developer",
+      "company": "SRM-CS",
       "location": "Morocco",
-      "type": "Academic Project",
+      "type": "Internship",
       "startDate": "2024-01",
       "endDate": "2024-05",
       "current": false,
-      "description": "Designed and developed SkyAware, a real-time air quality monitoring platform to help citizens protect their health.",
+      "description": "Developed a comprehensive site management system using modern React technologies to streamline content and data management operations.",
       "responsibilities": [
-        "Designed full user interface and user experience",
-        "Developed real-time air quality monitoring features",
-        "Integrated air quality APIs and data sources",
-        "Implemented location-based health recommendations",
-        "Created data visualization dashboards",
-        "Built alert system for air quality changes"
+        "Built full-stack site management application with React and TypeScript",
+        "Implemented modern UI components using shadcn-ui and Radix UI",
+        "Developed data visualization dashboards with Recharts",
+        "Integrated form validation with React Hook Form and Zod",
+        "Created responsive layouts with Tailwind CSS",
+        "Implemented routing and navigation with React Router",
+        "Built reusable component library with Lucide React icons",
+        "Managed application state with TanStack Query"
       ],
-      "technologies": ["Web Development", "API Integration", "Data Visualization", "Health Tech"],
+      "technologies": ["React", "TypeScript", "Vite", "shadcn-ui", "Tailwind CSS", "React Hook Form", "Zod", "TanStack Query", "Recharts"],
       "achievements": [
-        "Created comprehensive air quality monitoring platform",
-        "Implemented real-time data visualization",
-        "Delivered user-friendly health protection tool"
+        "Delivered production-ready site management platform",
+        "Implemented modern design system with 40+ UI components",
+        "Built scalable architecture with TypeScript for type safety",
+        "Created intuitive user interface for efficient content management"
       ]
     },
     {
