@@ -1,33 +1,8 @@
 {
   "experience": [
+    
     {
       "id": 1,
-      "position": "Project Manager & Software Engineer",
-      "company": "Speedex",
-      "location": "Morocco",
-      "type": "Internship",
-      "startDate": "2024-06",
-      "endDate": "2024-09",
-      "current": false,
-      "description": "Led the development of a comprehensive fleet management system with multi-warehouse tracking and preventive maintenance.",
-      "responsibilities": [
-        "Managed project lifecycle from planning to deployment",
-        "Designed and implemented multi-warehouse stock management system",
-        "Developed role-based access control and security features",
-        "Built real-time vehicle tracking functionality",
-        "Created preventive maintenance scheduling system",
-        "Integrated OAuth 2.0 authentication",
-        "Optimized database queries for performance"
-      ],
-      "technologies": ["Node.js", "Next.js", "PostgreSQL", "OAuth 2.0", "Real-time Systems"],
-      "achievements": [
-        "Successfully delivered multi-warehouse management system",
-        "Reduced maintenance costs through preventive scheduling",
-        "Implemented secure role-based access control"
-      ]
-    },
-    {
-      "id": 2,
       "position": "Designer & Developer",
       "company": "SRM-CS (Sky Research & Monitoring)",
       "location": "Morocco",
@@ -52,7 +27,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "position": "Software Developer",
       "company": "CERIMME",
       "location": "Morocco",
