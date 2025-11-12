@@ -90,6 +90,21 @@
       "featured": false,
       "category": "Mobile Application",
       "completionDate": "2024-10"
+    },
+    {
+      "id": 8,
+      "title": "DataGuardian AI - Intelligent Data Integration Platform",
+      "description": "Automated data integration and quality assurance platform combining business rules and AI-based anomaly detection for reliable decision-making data.",
+      "longDescription": "Developed an end-to-end data integration and validation pipeline ensuring data reliability across multiple sources. Implemented an automated ETL workflow with business rule validation (YAML), anomaly detection using IsolationForest, and PostgreSQL storage. Built an interactive Streamlit dashboard for monitoring data quality, anomaly insights, and pipeline health. The project integrates Data Engineering, Machine Learning, and Data Governance to enhance data integrity in decision systems.",
+      "image": "/images/projects/datagurdianai.jpg",
+      "tags": ["Python", "Pandas", "scikit-learn", "SQLAlchemy", "PostgreSQL", "Streamlit", "Great Expectations", "ETL Pipeline", "Machine Learning", "Data Quality"],
+      "demoUrl": "#",
+      "githubUrl": "https://github.com/Benritouniaimad",
+      "featured": true,
+      "category": "Data Science / AI",
+      "completionDate": "2025-01"
     }
+
+
   ]
 }
